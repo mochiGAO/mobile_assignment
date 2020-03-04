@@ -1,0 +1,27 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="uk.ac.shef.oak.week6.CameraActivity">
+
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Search"
+        />
+
+    <item
+        android:id="@+id/app_bar_map"
+        android:icon="@drawable/ic_map"
+        android:title="Map" />
+
+
+
+    <item
+        android:id="@+id/app_bar_gallery"
+        android:icon="@drawable/ic_gallery_black_24dp"
+        android:title="Gallery"
+        />
+
+</menu>
+
